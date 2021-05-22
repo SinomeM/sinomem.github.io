@@ -2,6 +2,8 @@
 
 Hi! I am Simone Montalbano and this is my personal web page.
 
+This is my [ORCID](https://orcid.org/0000-0002-9846-0560) page.
+
 ## Interests
 
 - lorem ipsum
@@ -21,10 +23,10 @@ Hi! I am Simone Montalbano and this is my personal web page.
   Psychiatry ([IBP](https://biopsyk.dk/)) at Roskilde, Denmark. I recently started
   a PhD track at the University of Copenhagen ([KU](https://www.ku.dk/english/));
 
-- I have worked for one year in the laboratory of
+- I have worked as pre-doc fellow for one year in the laboratory of
   [Neurogenomic Biomarkers](https://www.cibio.unitn.it/302/laboratory-of-neurogenomic-biomarkers)
   at CIBIO, Trento, Italy. Here I also did the internship (approximately 8 months)
-  for the Master Thesis;
+  for the Master Thesis.
 
 
 ## Projects
@@ -36,3 +38,5 @@ Hi! I am Simone Montalbano and this is my personal web page.
 
 
 ## Hobbies
+
+- lorem ipsum
