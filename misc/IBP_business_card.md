@@ -1,8 +1,8 @@
 # Simone Montalbano
 
 ## Role / Position
-Bioinformatician/Genetist/ex-Molecular Biologist.   
-Research Assistant, PhD Student.
+- Bioinformatician/Genetist/ex-Molecular Biologist.   
+- Research Assistant, PhD Student.
 
 ## Education
 
@@ -38,4 +38,12 @@ Research Assistant, PhD Student.
 
 ## Projects
 
+
+## Paper
+
+Nothing yet :(
+
+It it ever make it, it would be the small technical note
+describing my Bioconductor R package,
+[CNVgears](https://master.bioconductor.org/packages/CNVgears/).
 
