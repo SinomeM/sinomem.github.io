@@ -38,6 +38,14 @@
 
 ## Projects
 
+1. **PsychMap**. Recurrent loci in 30 (and possibly more)
+   recurrent loci + SCA. Association study with data from iPSYCH
+   **and** DST. CNV-GWAS if possible.
+2. **Blood Donor Biobank**. Recurrent CNVs, SCA, CNV-GWAS if possible.
+2. **Copenhagen Biobank**. Recurrent CNVs, SCA, CNV-GWAS if possible.
+3. **BINe** (w/ Kasper Lage). Only manifested my interest on this.
+4. **CNV Methods**. New methods to study, validate, filter and
+   possibly call from scratch CNVs. 
 
 ## Paper
 
@@ -46,4 +54,6 @@ Nothing yet :(
 It it ever make it, it would be the small technical note
 describing my Bioconductor R package,
 [CNVgears](https://master.bioconductor.org/packages/CNVgears/).
+I'm quite proud of this work, I sometimes think of it as my
+"legitimation" in the path from the bench to Bioinformatics.
 
