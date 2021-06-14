@@ -47,15 +47,16 @@
    (next future)
 3. **BINe** (w/ Kasper Lage). Only manifested my interest on this.
 4. **CNV Methods**. New methods to study, validate, filter and
-   possibly call from scratch CNVs. 
+   possibly call from scratch CNVs.
 
 ## Paper
 
 Nothing yet :(
 
-It it ever make it, it would be the small technical note
-describing my Bioconductor R package,
-[CNVgears](https://master.bioconductor.org/packages/CNVgears/).
-I'm quite proud of this work, I sometimes think of it as my
-"legitimation" in the path from the bench to Bioinformatics.
+At the moment, it would be the small technical note describing
+my Bioconductor R package,
+[CNVgears](https://master.bioconductor.org/packages/CNVgears/),
+if it ever make it to the press. Even if the package is not (yet)
+at is best, I'm quite proud of this work, I sometimes think of it
+as my "legitimation" in the path from the bench to Bioinformatics.
 
