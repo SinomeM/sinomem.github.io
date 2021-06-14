@@ -23,7 +23,7 @@ This is my [ORCID](https://orcid.org/0000-0002-9846-0560) page.
 ## Research Experience
 
 - I am currently a Research Assistant at the Research Institute of Biological
-  Psychiatry ([IBP](https://biopsyk.dk/)) at Roskilde, Denmark. I recently started
+  Psychiatry ([IBP](https://biopsyk.dk/)) in Roskilde, Denmark. I recently started
   a PhD track at the University of Copenhagen ([KU](https://www.ku.dk/english/));
 
 - I have worked as pre-doc fellow for one year (for January 2020 to January 2021)
