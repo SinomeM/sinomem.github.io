@@ -47,10 +47,14 @@ These area some of my main hobbies from the present and the past:
 
 - I am an amateur trail/road runner as well as a road cyclist;
 - On my bicycles I like to do all the maintenance work etc. myself,
-  in some I am way an amateur mechanic;
-- I really enjoy video games since I was quite young;
+  in some ways I am an amateur mechanic;
+- I love being in nature, in particular in the mountains. Mountaineering,
+  going for very long hikes and run in the mountains were my biggest passions
+  (before moving to Denmark);
+- I really enjoy video games since I was quite young. I don't have a single
+  favorite sub-genre, but in general I prefer single player/offline ones;
 - I studied sound synthesis and engineering as a side project for
-  a couple of years. Everything is paused since some time but I hope
+  a some years in the past. Everything is paused since some time but I hope
   to get my hands on some synthesizers again at some point in the future;
-- I have a minor passion for mechanical keyboards;
-
+- I have a minor passion for mechanical keyboards and HiFi audio equipment;
+- I am building a moderate interest in cryptocurrecy and Decentralized Finance;
