@@ -54,7 +54,8 @@ These area some of my main hobbies from the present and the past:
 - I really enjoy video games since I was quite young. I don't have a single
   favorite sub-genre, but in general I prefer single player/offline ones;
 - I studied sound synthesis and engineering as a side project for
-  a some years in the past. Everything is paused since some time but I hope
+  some years in the past. Everything is paused since some time but I hope
   to get my hands on some synthesizers again at some point in the future;
 - I have a minor passion for mechanical keyboards and HiFi audio equipment;
-- I am building a moderate interest in cryptocurrecy and Decentralized Finance;
+- I am slowly building a moderate interest in cryptocurrencies and 
+  Decentralized Finance;
