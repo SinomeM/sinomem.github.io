@@ -11,9 +11,10 @@ is my Publons page.
 
 ## Interests
 
-My main research interest are data analysis and statistical learning/
-machine learning in general. I am particularly into genomic data
-because of my training. 
+My main research interest are data analysis and statistical learning /
+ machine learning in general. I am particularly into genomic data
+because of my training. I find clustering problems and alogrithms 
+quite interesting. 
 
 
 ## Education
