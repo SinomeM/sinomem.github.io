@@ -62,4 +62,4 @@ These are some of my main hobbies from the present and the past:
   some years in the past. I haven't touched a synthetiser in a lot of time,
   but haven't lost the passion, who knows.
 - I have a minor passion for mechanical keyboards and HiFi audio equipment.
-- I have a minor interest in cryptocurrencies and Decentralized Finance in general.
+- I have a very minor interest in cryptocurrencies and Decentralized Finance in general.
