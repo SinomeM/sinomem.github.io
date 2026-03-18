@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Simone Montalbano, PhD
 
 Hi! I'm Simone Montalbano, a researcher in the field of bioinformatics, biostatistics,
 and data science. I am currently based in Copenhagen, Denmark, where I work at the
