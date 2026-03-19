@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Simone Montalbano, PhD" # Update this with your name and/or a title for your site
 title_separator          : "-"
 name                     : &name "Simone Montalbano"
@@ -27,8 +27,8 @@ author:
   name             : "Simone Montalbano"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics, Biostatistics, Data Science"
-  location         : "Copenhagen, Denmark"
-  employer         : "Institute of Biological Psychiatry"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "simone.montalbano@regionh.dk" 
 
