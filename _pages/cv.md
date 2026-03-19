@@ -69,12 +69,36 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & Infrastructure
+  *	R (advanced analysis, package development, data.table, ggplot2)
+  *	Linux/Bash, Python 
+  *	HPC environments (SLURM, PBS)
+  *	Workflows automation and scalable pipelines
+* Data Science & Machine Learning
+  *	Statistical modelling (GLM, GAM, GLMM, survival models, multivariate analysis, meta-analysis)
+  *	Large-scale association testing
+  *	Machine learning for genomics (CNNs, automated variant validation)
+  *	Simulations and power analysis
+* Human Genetics & Genomics
+  *	CNV analysis, GWAS, population and statistical genetics
+  *	Large-scale biobank analyses (iPSYCH, UK Biobank, deCODE)
+  *	Variant interpretation and disease association studies
+* Biobanks & Health registries data
+  *	Real-word data cleaning (e.g. data missingness or incoherence)
+  *	Knowledge of biobank limitations (e.g. participation/volunteers bias)
+  *	Control of microdata / personally identifiable information (GDPR)
+* Reproducibility & Deployment
+  *	Git-based development
+  *	Conda environments
+  *	Containerization (Docker, Singularity)
+  *	Interactive tools (R Shiny)
+* Communication
+  *	Scientific writing and peer review
+  *	Technical and non-technical reports, manuals and presentations
+* Collaboration & Leadership
+  *	Project leadership in multi-site collaborations
+  *	Supervision and mentoring of junior scientists 
+
 
 
 Publications
