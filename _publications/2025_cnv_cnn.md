@@ -1,7 +1,7 @@
 ---
 title: "CNValidatron: accurate and efficient validation of PennCNV calls using computer vision"
 collection: publications
-category: manuscripts
+category: fa_manuscripts
 permalink: /publication/cnv_cnn
 excerpt: 'This paper presents a novel approach for validating copy number variant calls using computer vision techniques.'
 date: 2025-01-23

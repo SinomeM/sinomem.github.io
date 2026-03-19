@@ -86,8 +86,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  fa_manuscripts:
+    title: 'First Author Journal Articles'    
+  sa_manuscripts:
+    title: 'Second Author Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
