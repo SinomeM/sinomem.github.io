@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Hi! I'm Simone Montalbano, a researcher in the field of bioinformatics, biostatistics,
+Hi! I'm Simone Montalbano, a researcher in the fields of bioinformatics, biostatistics,
 and data science. I am currently based in Copenhagen, Denmark, where I work at the
 Institute of Biological Psychiatry.
 
-This is my personal website. Here you can find my publications, projects, and
-contact information. 
+This is my personal website. Here you can find my CV, publications, projects, and
+contact information.

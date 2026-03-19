@@ -20,7 +20,7 @@ Work experience
 ======
 * Jan 2025 - Present: Postdoctoral Researcher
   * Institute of Biological Psychiatry (Copenhagen, Denmark)
-  * Supervisors: Andrés Ingason
+  * Supervisor: Andrés Ingason
     * Designed, curated, and maintained high-quality CNVs (copy number variants) and SCAs
       (sex chromosome aneuploidies) datasets across three large Danish biobanks (DBDS, CHB,
       iPSYCH), supporting downstream association and biomarker analyses.
@@ -32,8 +32,8 @@ Work experience
       analysis, and reproducible research practices.
 
 * June 2021 - January 2025: PhD Researcher
-  * Institute of Biological Psychiatry (Copenhagen, Denmark)
-  * Supervisors: Andrés Ingason
+  * Institute of Biological Psychiatry / Copenhagen University (Denmark)
+  * Supervisors: Thomas Werge, Andrés Ingason
     * Led large-scale association studies of CNVs in population cohorts, including a focused
       analysis of exonic deletions at the NRXN1 locus, resulting in a first author publication.
     * Developed a machine learning–based method for automated CNV validation using
@@ -47,6 +47,24 @@ Work experience
       teams.
     * Extensive hands-on experience with multiple large human genetics resources, including
       iPSYCH, UK Biobank, and deCODE trio datasets.
+
+* January 2021 - June 2021: Research Assistant
+  * Institute of Biological Psychiatry (Copenhagen, Denmark)
+  * Supervisor: Andrés Ingason
+    * Optimized and standardized CNV calling pipelines for large population cohorts.
+    * Converted custom scripts and manual steps into reproducible, peer-reviewed workflows.
+    * Containerized analysis software (Docker, Singularity) and deployed pipelines on HPC
+      systems (SLURM, PBS).
+    * Applied optimized pipelines to the iPSYCH cohort (>140,000 individuals), contributing to
+      downstream analyses and publications.
+
+* February 2019 - January 2021: MSc Intern / Research Assistant
+  * Laboratory of Neurogenomic Biomarkers, University of Trento (Italy)
+    * Performed CNV detection and family-based association analyses in trio and quartet
+      datasets from European and North American cohorts (ITAN, SPARK).
+    * Integrated multi-omics datasets including SNP arrays, WES/WGS, and RNA-seq.
+    * Developed early expertise in R, HPC environments, and Linux-based workflows.
+    * Published an R-package distributed via Bioconductor.
 
 
 Skills
