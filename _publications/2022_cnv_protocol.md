@@ -3,7 +3,7 @@ title: "Accurate and Effective Detection of Recurrent Copy Number Variants in La
 collection: publications
 category: fa_manuscripts
 permalink: /publication/cnv_protocol
-excerpt: 'Modern protocol to detct and process CNVs in large SNP genotype datasets, with a focus on biobank-scale resources.'
+excerpt: 'Modern protocol to detct and process CNVs in large SNP genotype datasets, with a focus on biobank-scale resources. Open access!'
 date: 2022-12-05
 venue: 'Current Protocols'
 paperurl: 'https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.621'
