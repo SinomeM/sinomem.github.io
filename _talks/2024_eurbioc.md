@@ -1,7 +1,7 @@
 ---
 title: "Development of a Convolutional Neural Network for Automated Copy Number Variants Validation and its Application in the UKB"
 collection: talks
-type: "Talk"
+type: "Short talk"
 permalink: /talks/2024_eurbioc/
 venue: "European Bioconductor Conference 2024"
 date: 2024-09-05

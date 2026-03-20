@@ -1,7 +1,7 @@
 ---
 title: "AI, Data Science & Genomics Applications Workshop"
 collection: talks
-type: "Tutorial"
+type: "Workshop"
 permalink: /talks/2024_nshg_workshop/
 venue: "Nordic Society for Precision Medicine Conference 2024"
 date: 2024-09-10
