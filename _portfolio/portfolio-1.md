@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CNValidatron, automated CNVs validation in R using a CNN"
+excerpt: "Convolutional Neural Network trained on a vast collection of human validated CNVs, capable of automating the visual inspection of CNV calls from SNP arrays data. <br/><img src='/images/cnvalidatron_scheme.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Verba volant, scripta manent. 
