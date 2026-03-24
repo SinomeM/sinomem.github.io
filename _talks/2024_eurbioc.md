@@ -14,4 +14,4 @@ You can find the slides of the presentation [here](https://sinomem.github.io/fil
 
 The talk covers also very quickly the application of the method to the UKB and the
 Icelandic cohort at deCODE genetics. The results were never published but are
-described in the four the manuscript of my [PhD thesis](https://sinomem.github.io/files/phd_thesis.pdf).
+described in the four the manuscript of my [PhD thesis](https://sinomem.github.io/files/phd_thesis_SM.pdf).
