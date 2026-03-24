@@ -23,7 +23,7 @@ repository               : "sinomem/sinomem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilePic.jpg"
   name             : "Simone Montalbano"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics, Biostatistics, Data Science"
